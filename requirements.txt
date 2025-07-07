@@ -1,0 +1,1 @@
+This file lists the Python packages required to run the MBS Data Hub application.Install them using the command: pip install -r requirements.txtpandaspandas-datareadermatplotlib
